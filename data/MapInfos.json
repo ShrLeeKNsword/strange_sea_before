@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"初始","order":1,"parentId":0,"scrollX":1158.5454545454545,"scrollY":646.909090909091},
-{"id":2,"expanded":true,"name":"库莫城","order":2,"parentId":0,"scrollX":7720,"scrollY":8788},
+{"id":1,"expanded":true,"name":"初始","order":1,"parentId":0,"scrollX":1593,"scrollY":889.5},
+{"id":2,"expanded":true,"name":"库莫城","order":2,"parentId":0,"scrollX":6903,"scrollY":8710.5},
 {"id":3,"expanded":true,"name":"站台 冰海","order":6,"parentId":4,"scrollX":708,"scrollY":406},
-{"id":4,"expanded":false,"name":"海上铁路办公室","order":3,"parentId":2,"scrollX":1416,"scrollY":790.6666666666666},
+{"id":4,"expanded":false,"name":"海上铁路办公室","order":3,"parentId":2,"scrollX":1593,"scrollY":889.5},
 {"id":5,"expanded":true,"name":"站台 夜叉","order":5,"parentId":4,"scrollX":708,"scrollY":406},
 {"id":6,"expanded":false,"name":"站台 媚商","order":4,"parentId":4,"scrollX":1820.5714285714284,"scrollY":1016.5714285714286},
-{"id":7,"expanded":false,"name":"海关站","order":7,"parentId":2,"scrollX":1416,"scrollY":790.6666666666666},
+{"id":7,"expanded":false,"name":"海关站","order":7,"parentId":2,"scrollX":832,"scrollY":770},
 {"id":8,"expanded":false,"name":"库莫城人口登记","order":8,"parentId":7,"scrollX":910.2857142857142,"scrollY":522},
-{"id":9,"expanded":false,"name":"标准房屋","order":9,"parentId":2,"scrollX":1416,"scrollY":790.6666666666666}
+{"id":9,"expanded":false,"name":"传送小屋","order":9,"parentId":2,"scrollX":816,"scrollY":640}
 ]
