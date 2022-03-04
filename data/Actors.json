@@ -8,7 +8,7 @@ null,
 {"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"凯西","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"埃利奥特","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"罗萨","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"画家","characterIndex":0,"characterName":"画家","classId":9,"equips":[43,0,46,2,0],"faceIndex":0,"faceName":"画家","traits":[],"initialLevel":1,"maxLevel":99,"name":"画家","nickname":"卡莉","note":"","profile":""},
+{"id":9,"battlerName":"画家","characterIndex":0,"characterName":"画家","classId":9,"equips":[43,0,46,2,0],"faceIndex":0,"faceName":"画家","traits":[],"initialLevel":1,"maxLevel":99,"name":"卡莉 ","nickname":"卡莉","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
