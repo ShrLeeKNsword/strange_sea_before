@@ -1,6 +1,6 @@
 # strange_sea_before
 -----
-copyright DARKROOM工作室,RPGCA,41工作室.
+copyright RPGCA,41工作室.
 This project is avaliable for study or other educational usage.You're not allowed to copy it or publish it in other platforms.Profit-usage is not premitted.
 -----
 ！[-简体中文-]！
