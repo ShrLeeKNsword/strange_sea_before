@@ -11,5 +11,9 @@ var $plugins =
 {"name":"2D_Cat_FreestyleMsgText","status":true,"description":"v1.0 自由设定对话框文字式样，包括颜色、渐变色、加粗、倾斜、轮廓、阴影、辉光等效果。","parameters":{}},
 {"name":"2D_Cat_OpenWebInTheGame","status":true,"description":"v1.0 在游戏内打开网站页面。","parameters":{}},
 {"name":"2D_Cat_SkipMovieInTheGame","status":true,"description":"v1.1 随时跳出正在播放的影像，并可显示影像播放倒计时。","parameters":{"isClickScreenSkip":"true","isPressEscSkip":"true","isOnTouchSkip":"true","isShowCountdownText":"true"}},
+<<<<<<< Updated upstream
 {"name":"NameInput","status":false,"description":"自由名字输入处理","parameters":{}}
+=======
+{"name":"mz文字输入插件","status":true,"description":"","parameters":{}}
+>>>>>>> Stashed changes
 ];
