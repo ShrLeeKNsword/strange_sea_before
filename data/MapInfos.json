@@ -1,0 +1,32 @@
+[
+null,
+<<<<<<< Updated upstream
+{"id":1,"expanded":true,"name":"初始","order":1,"parentId":0,"scrollX":2136,"scrollY":1186},
+{"id":2,"expanded":true,"name":"库莫城","order":2,"parentId":0,"scrollX":7400,"scrollY":4366},
+{"id":3,"expanded":true,"name":"站台 冰海","order":6,"parentId":4,"scrollX":1165.0909090909092,"scrollY":664.3636363636364},
+{"id":4,"expanded":true,"name":"海上铁路办公室","order":3,"parentId":2,"scrollX":2136,"scrollY":1186},
+{"id":5,"expanded":true,"name":"站台 夜叉","order":5,"parentId":4,"scrollX":2136,"scrollY":1186},
+{"id":6,"expanded":false,"name":"站台 媚商","order":4,"parentId":4,"scrollX":1820.5714285714284,"scrollY":1016.5714285714286},
+{"id":7,"expanded":false,"name":"海关站","order":7,"parentId":2,"scrollX":1182.5454545454545,"scrollY":775.6363636363636},
+{"id":8,"expanded":false,"name":"库莫城人口登记","order":8,"parentId":7,"scrollX":910.2857142857142,"scrollY":522},
+{"id":9,"expanded":false,"name":"传送小屋","order":9,"parentId":2,"scrollX":2136,"scrollY":1186},
+{"id":10,"expanded":false,"name":"渔村后","order":11,"parentId":2,"scrollX":2136,"scrollY":1186},
+{"id":11,"expanded":false,"name":"渔村前","order":10,"parentId":2,"scrollX":2136,"scrollY":1186}
+=======
+{"id":1,"expanded":true,"name":"初始","order":1,"parentId":0,"scrollX":1593,"scrollY":889.5},
+{"id":2,"expanded":true,"name":"库莫城","order":2,"parentId":0,"scrollX":7968,"scrollY":8686.5},
+{"id":3,"expanded":true,"name":"站台 冰海","order":9,"parentId":4,"scrollX":1158.5454545454545,"scrollY":664.3636363636364},
+{"id":4,"expanded":true,"name":"海上铁路办公室","order":6,"parentId":2,"scrollX":1593,"scrollY":913.5},
+{"id":5,"expanded":true,"name":"站台 夜叉","order":8,"parentId":4,"scrollX":2136,"scrollY":1186},
+{"id":6,"expanded":false,"name":"站台 媚商","order":7,"parentId":4,"scrollX":1593,"scrollY":889.5},
+{"id":7,"expanded":false,"name":"海关站","order":4,"parentId":2,"scrollX":1593,"scrollY":889.5},
+{"id":8,"expanded":false,"name":"库莫城人口登记","order":5,"parentId":7,"scrollX":910.2857142857142,"scrollY":522},
+{"id":9,"expanded":false,"name":"传送小屋","order":3,"parentId":2,"scrollX":1593,"scrollY":889.5},
+{"id":10,"expanded":true,"name":"渔村前","order":10,"parentId":2,"scrollX":1617,"scrollY":1006.5},
+{"id":11,"expanded":false,"name":"渔村后","order":11,"parentId":2,"scrollX":1593,"scrollY":889.5},
+{"id":12,"expanded":true,"name":"城堡 3F","order":15,"parentId":15,"scrollX":1593,"scrollY":958.5},
+{"id":13,"expanded":false,"name":"城堡 1F","order":13,"parentId":15,"scrollX":1593,"scrollY":913.5},
+{"id":14,"expanded":false,"name":"城堡 2F","order":14,"parentId":15,"scrollX":1593,"scrollY":913.5},
+{"id":15,"expanded":false,"name":"城堡","order":12,"parentId":2,"scrollX":1593,"scrollY":1294.5}
+>>>>>>> Stashed changes
+]
